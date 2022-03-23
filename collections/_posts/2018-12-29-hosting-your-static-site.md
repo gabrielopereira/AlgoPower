@@ -1,9 +1,9 @@
 ---
-title: "Case #2: Indeed, it is awful"
+title: "Hosting Your Static Site"
 date: 2018-12-29T10:24:47+10:00
 layout: post
 authors: ["Sage Kirk", "Mike Young"]
-categories:
+categories: ["Hosting", "Development"]
 description: "Hosting your website as a static site will improve performance and improve security."
 thumbnail: "https://source.unsplash.com/y3PdLg_zSDs/640x360"
 image: "https://source.unsplash.com/y3PdLg_zSDs/1600x900"

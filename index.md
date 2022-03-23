@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Knowing Algorithmic Power
+title: Jekyll Atlantic Theme
 heading: <em>Jekyll Tailwind</em> Starter Blog
-description: This website collects stories of algorithmic power.
+description: Atlantic is a beautiful Tailwind CSS theme for Jekyll. It shows best practices for using Tailwind with Jekyll.
 
 ---

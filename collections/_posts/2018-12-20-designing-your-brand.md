@@ -1,5 +1,5 @@
 ---
-title: "Case #1: Why Algorithms Suck"
+title: "Designing Your Brand"
 date: 2018-12-20T09:49:03+10:00
 layout: post
 categories: ["Branding"]

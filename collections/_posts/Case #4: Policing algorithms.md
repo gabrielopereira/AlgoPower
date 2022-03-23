@@ -1,11 +1,12 @@
 ---
-title: "Designing Your Brand"
-date: 2018-12-20T09:49:03+10:00
 layout: post
-categories: ["Branding"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: "https://source.unsplash.com/YmQ0-nmWcV0/1600x900"
+title: "Case #4: Policing algorithms"
+date: 2018-12-29T10:26:40+10:00
+authors: ["Sage Kirk", "Mike Vance"]
+tags: ["Writing"]
+description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
+thumbnail: "assets/images/unsplash-CTivHyiTbFw-640x360.jpeg"
+image: "https://source.unsplash.com/CTivHyiTbFw/1600x900"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

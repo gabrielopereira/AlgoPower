@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Knowing Algorithmic Power
-heading: <em>Jekyll Tailwind</em> Starter Blog
+heading: Knowing Algorithmic Power
 description: This website collects stories of algorithmic power.
 
 ---
